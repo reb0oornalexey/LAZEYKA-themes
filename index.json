@@ -1,5 +1,5 @@
 {
- "updated": 1794646875519,
+ "updated": 1794647011401,
  "themes": [
   {
    "id": "mwg6ec9bnrruc",
@@ -9,14 +9,6 @@
    "theme": "themes/mwg6ec9bnrruc/theme.json",
    "preview": "themes/mwg6ec9bnrruc/preview.jpg",
    "wallpaper": "https://github.com/reb0oornalexey/LAZEYKA-themes/releases/download/gallery/mwg6ec9bnrruc.jpg"
-  },
-  {
-   "id": "mwg60h61nsbyz",
-   "name": "Тёмная",
-   "author": "Аноним",
-   "at": 1794646228755,
-   "theme": "themes/mwg60h61nsbyz/theme.json",
-   "preview": "themes/mwg60h61nsbyz/preview.jpg"
   }
  ]
 }
