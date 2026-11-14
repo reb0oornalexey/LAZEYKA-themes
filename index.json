@@ -1,4 +1,13 @@
 {
- "updated": 1794630703549,
- "themes": []
+ "updated": 1794646232007,
+ "themes": [
+  {
+   "id": "mwg60h61nsbyz",
+   "name": "Тёмная",
+   "author": "Аноним",
+   "at": 1794646228755,
+   "theme": "themes/mwg60h61nsbyz/theme.json",
+   "preview": "themes/mwg60h61nsbyz/preview.jpg"
+  }
+ ]
 }
