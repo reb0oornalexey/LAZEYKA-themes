@@ -1,4 +1,14 @@
 {
- "updated": 1794647015914,
- "themes": []
+ "updated": 1794647312148,
+ "themes": [
+  {
+   "id": "mwg6m99b2qrxj",
+   "name": "Япония",
+   "author": "reb0oorn",
+   "at": 1794647307249,
+   "theme": "themes/mwg6m99b2qrxj/theme.json",
+   "preview": "themes/mwg6m99b2qrxj/preview.jpg",
+   "wallpaper": "https://github.com/reb0oornalexey/LAZEYKA-themes/releases/download/gallery/mwg6m99b2qrxj.jpg"
+  }
+ ]
 }
