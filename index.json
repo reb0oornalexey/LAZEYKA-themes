@@ -1,6 +1,15 @@
 {
- "updated": 1794646232007,
+ "updated": 1794646875519,
  "themes": [
+  {
+   "id": "mwg6ec9bnrruc",
+   "name": "Тёмная",
+   "author": "reb0oorn",
+   "at": 1794646869308,
+   "theme": "themes/mwg6ec9bnrruc/theme.json",
+   "preview": "themes/mwg6ec9bnrruc/preview.jpg",
+   "wallpaper": "https://github.com/reb0oornalexey/LAZEYKA-themes/releases/download/gallery/mwg6ec9bnrruc.jpg"
+  },
   {
    "id": "mwg60h61nsbyz",
    "name": "Тёмная",
